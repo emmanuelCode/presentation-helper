@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="648.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fx:id="slideImageView" fitHeight="360.0" fitWidth="480.0" layoutX="10.0" layoutY="44.0" nodeOrientation="INHERIT" preserveRatio="true" AnchorPane.bottomAnchor="244.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="44.0" />
+      <Button layoutX="10.0" layoutY="609.0" mnemonicParsing="false" onAction="#OnPrevClick" text="Prev" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="10.0" />
+      <Button layoutX="445.0" layoutY="609.0" mnemonicParsing="false" onAction="#onNextClick" text="Next" AnchorPane.bottomAnchor="15.0" AnchorPane.rightAnchor="10.0" />
+      <MenuBar layoutX="14.0" layoutY="14.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <TextArea fx:id="noteTextArea" layoutX="150.0" layoutY="434.0" onKeyReleased="#onKeyReleased" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="150.0" AnchorPane.rightAnchor="150.0" />
+      <Label fx:id="slideLocationLabel" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="231.0" layoutY="411.0" prefHeight="17.0" prefWidth="39.0" textAlignment="CENTER" AnchorPane.bottomAnchor="220.0" AnchorPane.leftAnchor="230.0" AnchorPane.rightAnchor="230.0" AnchorPane.topAnchor="411.0" />
+   </children>
+</AnchorPane>

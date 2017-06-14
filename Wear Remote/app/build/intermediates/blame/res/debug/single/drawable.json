@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_more_vert_24dp_wht.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/action_item_icon_background.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/action_item_icon_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_info_black_24dp.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/drawable/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/close_button.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/close_button.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lab12_zbpews.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\drawable\\lab12_zbpews.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_horiz_24dp_wht.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_cc_checkmark.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cc_checkmark.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_cc_clear.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/ic_cc_clear.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/card_background.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/card_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_24dp_wht.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\ic_more_vert_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cc_clear.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\ic_cc_clear.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/app_title.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/drawable/app_title.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accept_deny_dialog_positive_bg.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_more_horiz_24dp_wht.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/ic_more_horiz_24dp_wht.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_icon_background.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\action_item_icon_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/accept_deny_dialog_negative_bg.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/lab12_zbpews.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/drawable/lab12_zbpews.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/action_item_background.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/action_item_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accept_deny_dialog_negative_bg.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_title.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\drawable\\app_title.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_folder_open_black_24dp.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\drawable\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/accept_deny_dialog_positive_bg.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/drawable/accept_deny_dialog_positive_bg.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/ic_folder_open_black_24dp.png",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/drawable/ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_background.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\drawable\\action_item_background.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    }
+]

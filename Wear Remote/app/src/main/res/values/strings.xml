@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PresentationHelper</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_project">ProjectActivity</string>
+</resources>

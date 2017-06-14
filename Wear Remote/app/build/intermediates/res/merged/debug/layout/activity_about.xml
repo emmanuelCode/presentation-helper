@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/box_inset_layout_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+<android.support.wearable.view.CardScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<android.support.wearable.view.CardFrame
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version: 1.0"
+        android:id="@+id/text"
+        android:textAppearance="@style/TextAppearance.Wearable.Medium"
+        android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:background="@drawable/lab12_zbpews"
+            android:layout_gravity="center" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Build for the LAB12 program by Les_Pitonneux\n"
+
+            android:id="@+id/text2"
+            android:textAppearance="@style/TextAppearance.Wearable.Small"
+            android:gravity="center" />
+    </LinearLayout>
+
+</android.support.wearable.view.CardFrame>
+</android.support.wearable.view.CardScrollView>
+</android.support.wearable.view.BoxInsetLayout>

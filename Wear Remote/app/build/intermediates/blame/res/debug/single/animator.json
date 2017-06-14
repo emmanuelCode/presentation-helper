@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\animator\\circular_image_button_anim.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\animator\\circular_image_button_anim.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/animator/circular_image_button_anim.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/animator/circular_image_button_anim.xml"
+    }
+]

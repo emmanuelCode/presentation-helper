@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/wearable_drawer_view.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_confirmation.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_view.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/overlay_confirmation.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/accept_deny_dialog.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wearable_drawer_view.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/navigation_drawer_view.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_item_view.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_item_view.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/action_drawer_peek_view.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_peek_view.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\action_drawer_peek_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\src\\main\\res\\layout\\activity_project.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/activity_project.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/layout/activity_project.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\error_layout.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accept_deny_dialog.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/C:\\PresentationHelper\\Wear Remote\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\layout\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/action_drawer_item_view.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/res/layout/activity_main.xml"
+    }
+]

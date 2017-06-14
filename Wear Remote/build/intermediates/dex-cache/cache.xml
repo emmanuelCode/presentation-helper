@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d78bdd22e8e70bc9801c00a50bc24a2f07922cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/9a425c71cbf5686aff6b140a8eb0b7f56fe60766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4e173a6aa8c2c9921b647deaa59863fa80e3ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/54f4a6802da577fdf5d4086bc884e36dff44cc1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80372e7c5d64f89fe011b7693e2fc739b79ddd5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/a2ae78d8404bf494e5110b47faab291e22c62c60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcad5be107331b2b6d9556fc78606103b522267a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3e3572ff95c73d64f6363c454eadd5cbbc13f46">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_932bc4540656d7d7a7922f465ae09f096e4be938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/09f59e2783177fad649c7744b8fe241faeac292a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a73b66a60577a2540013cb437611eafd902e44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0e6486f05a25a8be3301c3f54884296a9eb4966/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/8e9d754cf4ad7640fdb95fc39889c8d18ef28c02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e1dedf94e8c203b8e31fc3c53e237bfe04259e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/19f67aa80e6529619cb3182179020051ac20e029/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a305d62aef25206aff0e3455c1604097f4c220e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_6d80ed9fbef69ab5ba65714dfcb40a5fdbecf93b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/63a992f490f04e64b24281855720f821782aa18e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1da99af7486e4f44d1cc7b02635fcadacbc2ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/54f3ef9a42f5bc47e90f3eb63a6e69be86e7731a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3ea1aba1dd7d0d36d726e2f6944748b2ec8d44a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ad4692f339dbe1c96672530babc2305472e7c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_462d3971fc6c6668cfc1ac8435360df5c0787622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/.android/build-cache/f500d9d9cdb4a02c0a24e7c023178855b5873112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18142fdae4462da86684218dca7220798d317d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5de6e9d7634d3235b2bd8eefdc8c18cff955400a/classes.dex" />
+    </item>
+
+</items>

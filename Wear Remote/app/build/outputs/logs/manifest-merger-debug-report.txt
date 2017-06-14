@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:8:22-71
+application
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:14:5-36:19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/AndroidManifest.xml:6:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] /home/androidweardev/.android/build-cache/54f3ef9a42f5bc47e90f3eb63a6e69be86e7731a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/androidweardev/.android/build-cache/f500d9d9cdb4a02c0a24e7c023178855b5873112/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/androidweardev/.android/build-cache/9a425c71cbf5686aff6b140a8eb0b7f56fe60766/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/androidweardev/.android/build-cache/09f59e2783177fad649c7744b8fe241faeac292a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/androidweardev/.android/build-cache/8e9d754cf4ad7640fdb95fc39889c8d18ef28c02/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/androidweardev/.android/build-cache/54f4a6802da577fdf5d4086bc884e36dff44cc1e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/androidweardev/.android/build-cache/63a992f490f04e64b24281855720f821782aa18e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/androidweardev/.android/build-cache/a2ae78d8404bf494e5110b47faab291e22c62c60/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:16:9-41
+	android:theme
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:19:9-59
+activity#com.pitonneux.presentation_helper.MainActivity
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:21:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.pitonneux.presentation_helper.AboutActivity
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:29:9-31:60
+	android:label
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:30:13-75
+activity#com.pitonneux.presentation_helper.ProjectActivity
+ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:32:9-35:67
+	android:label
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:34:13-59
+	android:theme
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml:33:13-77
+uses-sdk
+INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-alpha3] /home/androidweardev/.android/build-cache/551eda2726e6b5edec1360cbcd3f60d6cb397fdb/output/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/androidweardev/.android/build-cache/19f67aa80e6529619cb3182179020051ac20e029/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] /home/androidweardev/.android/build-cache/54f3ef9a42f5bc47e90f3eb63a6e69be86e7731a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/androidweardev/.android/build-cache/f500d9d9cdb4a02c0a24e7c023178855b5873112/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/androidweardev/.android/build-cache/9a425c71cbf5686aff6b140a8eb0b7f56fe60766/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/androidweardev/.android/build-cache/09f59e2783177fad649c7744b8fe241faeac292a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/androidweardev/.android/build-cache/8e9d754cf4ad7640fdb95fc39889c8d18ef28c02/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/androidweardev/.android/build-cache/54f4a6802da577fdf5d4086bc884e36dff44cc1e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/androidweardev/.android/build-cache/63a992f490f04e64b24281855720f821782aa18e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/androidweardev/.android/build-cache/a2ae78d8404bf494e5110b47faab291e22c62c60/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /home/androidweardev/.android/build-cache/9a425c71cbf5686aff6b140a8eb0b7f56fe60766/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/androidweardev/.android/build-cache/97353d0ff90ad3db27bb08e9e333e39dd14b6e18/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/androidweardev/.android/build-cache/b71bb14cf12bd8983e518b7035c548ec0f863370/output/AndroidManifest.xml:20:20-65

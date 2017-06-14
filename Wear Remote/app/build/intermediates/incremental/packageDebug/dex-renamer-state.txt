@@ -1,0 +1,7 @@
+#Fri May 26 18:01:31 EDT 2017
+base.0=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5de6e9d7634d3235b2bd8eefdc8c18cff955400a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_932bc4540656d7d7a7922f465ae09f096e4be938/classes.dex
+base.1=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_932bc4540656d7d7a7922f465ae09f096e4be938
+file.0=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5de6e9d7634d3235b2bd8eefdc8c18cff955400a/classes.dex

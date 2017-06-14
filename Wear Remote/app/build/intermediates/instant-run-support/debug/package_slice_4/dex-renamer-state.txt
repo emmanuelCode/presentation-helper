@@ -1,0 +1,4 @@
+#Fri May 26 17:48:19 EDT 2017
+base.0=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/androidweardev/Downloads/PresentationHelper/PresentationHelper/Wear Remote/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
